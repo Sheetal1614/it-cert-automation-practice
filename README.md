@@ -1,4 +1,4 @@
-# Google IT Automation with Python Professional Certificate : practicee
+# Google IT Automation with Python Professional Certificates : 
 
 This repository contains the practice files used throughout the courses that are
 part of the Google IT Automation with Python Professional Certificate
